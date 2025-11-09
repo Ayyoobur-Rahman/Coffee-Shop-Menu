@@ -1,0 +1,1 @@
+A small static webpage that renders a coffee shop menu using HTML and CSS. This repository contains a simple, front-end-only page intended to demonstrate semantic structure, basic styling, and layout choices that can be used to showcase testing awareness in an apprenticeship application.
